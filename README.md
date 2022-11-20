@@ -1,2 +1,2 @@
 # cursor-edu
-cursor edu web sayti kolari
+cursor edu o`quv markazi web sayti 
